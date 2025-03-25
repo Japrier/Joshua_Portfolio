@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/Japrier/joshuaprier.github.io/blob/master/files/20250324_215727.jpg"
+  avatar           : "files/20250324_215727.jpg"
   name             : "Joshua Prier"
   pronouns         : # example: "she/her"  
   bio              : "I’m an aspiring Electrical Engineer with a passion for hands-on projects and problem-solving. I especially enjoy looking for ways to expand my skills. With a strong analytical mindset and a drive to learn, I’m eager to apply my knowledge to real-world applications."
   location         : "Cedar Rapids, IA"
-  employer         : "Red Brick University"
+  employer         : "Iowa State University"
   uri              : # URL
   email            : "joshuaprier3@gmail.com" 
 
