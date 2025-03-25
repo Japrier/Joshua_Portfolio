@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Joshua Prier Name / Site Title"
+title                    : "Joshua Prier"
 title_separator          : "-"
-name                     : &name "Joshua Prier Name"
+name                     : &name "Joshua Prier"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for Joshua Prier site e.g. "https://[Joshua Prier GitHub username].github.io"
 baseurl                  : "" # the subpath of Joshua Prier site, e.g. "/blog"
@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Joshua Prier Sidebar Name"
+  avatar           : !["profile.png"](https://github.com/Japrier/joshuaprier.github.io/blob/master/files/20250324_215727.jpg)
+  name             : "Joshua Prier"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I’m an aspiring Electrical Engineer with a passion for hands-on projects and problem-solving. I especially enjoy looking for ways to expand my skills. With a strong analytical mindset and a drive to learn, I’m eager to apply my knowledge to real-world applications."
   location         : "Cedar Rapids, IA"
   employer         : "Red Brick University"
   uri              : # URL
@@ -45,12 +45,12 @@ author:
   bitbucket        : # Username - Update with Joshua Prier username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Japrier"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
